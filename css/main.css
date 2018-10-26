@@ -1,0 +1,85 @@
+
+h1{
+  font-size: 5rem;
+  color: DodgerBlue;
+}
+
+h2{
+  font-size: 5rem;
+  color: DodgerBlue;
+}
+
+h3{
+  font-size: 5rem;
+  color: DodgerBlue;
+}
+
+h4{
+  font-size: 5rem;
+  color: DodgerBlue;
+}
+
+header{
+  color: DodgerBlue;
+}
+
+section{
+  color: DodgerBlue;
+  font-size: 50px;
+}
+
+{
+  color: DodgerBlue;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+#wrapper {
+  width: 100%;
+}
+
+img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+header, section, footer {
+  padding: 10rem;
+  font-size: 2rem;
+}
+ul {
+
+}
+
+}
+nav li {
+  display: inline;
+}
+
+nav a {
+  width: 10rem;
+  height: 3rem;
+  font-size: 1.8rem;
+  display: inline-block;
+  color: DodgerBlue;
+  text-decoration: none;
+  /*background-color: lightblue;*/
+}
+
+nav a:hover {
+  color:#777;
+}
+
+body{
+  background-image: url("https://www.bitlyft.com/wp-content/uploads/2018/08/dark-blue-tech-circuit-board-technology-animated-background-video-graphic-design-ultra-hd-4k-3840x2160_sgelpuywg_thumbnail-full05.png");
+}
+
+.logo {
+  float: right;
+}
+
+.clear {
+  clear: both;
+}
